@@ -1,0 +1,445 @@
+canonical_identifier: bkk:krp/KR6d0115/v1
+canonical_location: https://kanripo.org/bkk/KR6d0115/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛三昧經通宗記
+  identifiers:
+    alt_id:
+    - X35n0652
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X35/X35n0652.xml
+    old_id: X35n0652
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0115_000.yaml, hash: 'sha256:34147f5b465d95ca66dbe5a36bd1636cff3837edbc023f68ed27b7bba4c66bd6'}
+  - {seq: 1, filename: KR6d0115_001.yaml, hash: 'sha256:2dc6015f30fa33d0867335652bb7cfd2dbdc3b4e14071bf2fc02506aaa355f79'}
+  - {seq: 2, filename: KR6d0115_002.yaml, hash: 'sha256:523c49f0206d09ce7f700027409aad1328a53b61eb450cd6e09065dea85b3ed9'}
+  - {seq: 3, filename: KR6d0115_003.yaml, hash: 'sha256:54641e28ad54b84feb96749bb93a7b4f3c359d71559152a312bf46debd834d6f'}
+  - {seq: 4, filename: KR6d0115_004.yaml, hash: 'sha256:9fbac96dbe354d2e4c7fdd34eee2e6e9e4ed30d159a5d4ef20f1865d95f4c349'}
+  - {seq: 5, filename: KR6d0115_005.yaml, hash: 'sha256:1453eab2c4a7a9aedc7527a02d00ebf065cc1b4e61e46484c46094abc2242283'}
+  - {seq: 6, filename: KR6d0115_006.yaml, hash: 'sha256:d3fb0da3cb267d7ba95e6acb33784e653d93f9c9fc9927e1884310022db76421'}
+  - {seq: 7, filename: KR6d0115_007.yaml, hash: 'sha256:2548932ec422c3c2cb787341f26c493c89cc2869a081d158378e1a8cb9214efe'}
+  - {seq: 8, filename: KR6d0115_008.yaml, hash: 'sha256:2ac27c5cc585dfad39e568c25fd0b470104db7cb660437e851a76f1d7f0939da'}
+  - {seq: 9, filename: KR6d0115_009.yaml, hash: 'sha256:e3fa9bfba8d15ad101312c805b2a14fbaed271b0e6fc3f1ae49c2c55d2256658'}
+  - {seq: 10, filename: KR6d0115_010.yaml, hash: 'sha256:2eb6068ee2a9ba400d6c4a8249fbcdc811be784d4556a40f34ed3a7e2556bfdd'}
+  - {seq: 11, filename: KR6d0115_011.yaml, hash: 'sha256:c1f035a7f3ea392bb38ae034674a503ec287a54bb583050dce1afe948bd2373b'}
+  - {seq: 12, filename: KR6d0115_012.yaml, hash: 'sha256:46bef24e09df1ffc825abec5acd4d16a7d7c70b8772174b2189be7a28475eb27'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0115_000.markers.yaml, hash: 'sha256:8983b91b3b7c501b81b07e608b2d952b7bc7955d2457c235603d5fe853d50a8d'}
+  - {seq: 1, role: markers, filename: assets/KR6d0115_001.markers.yaml, hash: 'sha256:9d44c3fdb57614319da5e2465f659196d77de52c932e8a9f76a63ecde35ee3bc'}
+  - {seq: 2, role: markers, filename: assets/KR6d0115_002.markers.yaml, hash: 'sha256:aeff27539fff481ab8d2606614468e24a42fb9184929f93dc782fb844e440411'}
+  - {seq: 3, role: markers, filename: assets/KR6d0115_003.markers.yaml, hash: 'sha256:d726de94ef9da7d0805c94aac27e52da9979963e8b6471fb5672974c7c51e6c9'}
+  - {seq: 4, role: markers, filename: assets/KR6d0115_004.markers.yaml, hash: 'sha256:bc0a557541d36d43fefc84fde0a3a3ac6f480e4876b6e2d5d721389fd72fa430'}
+  - {seq: 5, role: markers, filename: assets/KR6d0115_005.markers.yaml, hash: 'sha256:d7086b13c3eb5c0608770014a4ed0e87cf67bf4c2a4265dd1a83f017a9a4287f'}
+  - {seq: 6, role: markers, filename: assets/KR6d0115_006.markers.yaml, hash: 'sha256:3d0ca3d8563ab947eb7b78df204d7194f6f68dc72536a405431f6776000ae756'}
+  - {seq: 7, role: markers, filename: assets/KR6d0115_007.markers.yaml, hash: 'sha256:fd668db162f16b6b8f43745f1dff7d88e67878bccdb28cf8b2387b7e6ddd39c3'}
+  - {seq: 8, role: markers, filename: assets/KR6d0115_008.markers.yaml, hash: 'sha256:f1fba46e464a1187ea69ab6656bfe6b52ffac13fb02fe18bd5c374cbf12cc4b7'}
+  - {seq: 9, role: markers, filename: assets/KR6d0115_009.markers.yaml, hash: 'sha256:ac58c6acd6c09ff44acc656dc3adba0c2659ce7abf932f4034e47637e967bf49'}
+  - {seq: 10, role: markers, filename: assets/KR6d0115_010.markers.yaml, hash: 'sha256:351e6b0fceb55da853c1f1fed2e0fa417fdca3eee92c774d6332028c47374fe4'}
+  - {seq: 11, role: markers, filename: assets/KR6d0115_011.markers.yaml, hash: 'sha256:e0418f4c1bc0643b023e8b6af8b180da6d92b3e10404fa5d6805c0a893d38a9e'}
+  - {seq: 12, role: markers, filename: assets/KR6d0115_012.markers.yaml, hash: 'sha256:e78688c2051417dadc549cd32af04bb1f8b12a3052dbfe2a0574fa955536de0a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 652-A 金剛三昧經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-2
+    span:
+    - front
+    - 820
+    - 820
+  label: No. 652-B 金剛三昧經通宗記序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-3
+    span:
+    - front
+    - 1340
+    - 1340
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-4
+    span:
+    - front
+    - 1487
+    - 1487
+  label: 品義開合圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-5
+    span:
+    - front
+    - 1492
+    - 1492
+  label: No. 652-C 懸談
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-6
+    span:
+    - front
+    - 1494
+    - 1494
+  label: 十門分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-7
+    span:
+    - front
+    - 1617
+    - 1617
+  label: 初教起因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-8
+    span:
+    - front
+    - 2378
+    - 2378
+  label: 二藏教分攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-9
+    span:
+    - front
+    - 3095
+    - 3095
+  label: 三義理幽深
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-10
+    span:
+    - front
+    - 3595
+    - 3595
+  label: 四法被機宜
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-11
+    span:
+    - front
+    - 3917
+    - 3917
+  label: 五宗分體用
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-12
+    span:
+    - front
+    - 4146
+    - 4146
+  label: 六教迹前後
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-13
+    span:
+    - front
+    - 5259
+    - 5259
+  label: 七翻譯時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-14
+    span:
+    - front
+    - 5801
+    - 5801
+  label: 八疏註感通
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-15
+    span:
+    - front
+    - 6284
+    - 6284
+  label: 九解釋經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0115_X_000-mulu-16
+    span:
+    - front
+    - 7077
+    - 7077
+  label: 十疏義通宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0115_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 7514
+  label: 金剛三昧經通宗記卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0115_X_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 序品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0115_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 6391
+  label: 金剛三昧經通宗記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0115_X_002-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 無相法品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0115_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 5854
+  label: 金剛三昧經通宗記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0115_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 5015
+  label: 金剛三昧經通宗記卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0115_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 7623
+  label: 金剛三昧經通宗記卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0115_X_005-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 無生行品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0115_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 8266
+  label: 金剛三昧經通宗記卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0115_X_006-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 本覺利品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0115_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 5884
+  label: 金剛三昧經通宗記卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0115_X_007-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 入實際品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6d0115_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 7050
+  label: 金剛三昧經通宗記卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6d0115_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 8290
+  label: 金剛三昧經通宗記卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6d0115_X_009-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 真性空品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6d0115_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 8992
+  label: 金剛三昧經通宗記卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6d0115_X_010-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 如來藏品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6d0115_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 6258
+  label: 金剛三昧經通宗記卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6d0115_X_011-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 總持品第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6d0115_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 10056
+  label: 金剛三昧經通宗記卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6d0115_X_012-mulu-1
+    span:
+    - body
+    - 7162
+    - 7162
+  label: 修習行法
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6d0115_X_012-mulu-2
+    span:
+    - body
+    - 8901
+    - 8901
+  label: No. 652-D 閣筆記
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6d0115_X_012-mulu-3
+    span:
+    - body
+    - 9726
+    - 9726
+  label: 華頂仁叟震禪師書目
+  type: mulu
+  level: 1
+hash: sha256:2e5347e2c31ce09cbf59c7fa77e3164e0a5635094e7f01ed07e83bd79b710405
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
