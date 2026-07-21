@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0115_000-X.yaml, hash: 'sha256:56f734d24ed965a3495f36ab20f5eb7945ad9319fd0f8450290b26a642cd1b99'}
+  - {seq: 0, filename: KR6d0115_000-X.yaml, hash: 'sha256:e423db6d5934b0db3087df9e74414aa46e4455d7e7a3e30b938cb064e615c11f'}
   - {seq: 1, filename: KR6d0115_001-X.yaml, hash: 'sha256:6771d034e1ab9bca8f425d6de4ea786e5327532a34d92bea50b55c6c677f4e10'}
   - {seq: 2, filename: KR6d0115_002-X.yaml, hash: 'sha256:ea2d5d1e3fd8777d9ae792540845f9b1e124fd2d7366221a19cb638e21073d6e'}
   - {seq: 3, filename: KR6d0115_003-X.yaml, hash: 'sha256:0a8f38b90cf046e6696e404e9d459a9ad792e0a7c6ecc934c646ab4c51e1b421'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 11, filename: KR6d0115_011-X.yaml, hash: 'sha256:81de893009b32597870a410d28c4e0d615e0eeac4d6ddea40c37ce455cade626'}
   - {seq: 12, filename: KR6d0115_012-X.yaml, hash: 'sha256:04b4e657b83d78110be2fd91c48fccd9c0db55af5e2354b7d975c2fb241cafef'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0115_000-X.markers.yaml, hash: 'sha256:0a2090f088c93ad78914bb3750c973a35524d76fed8e0035f03e62dca9d220fc'}
+  - {seq: 0, role: markers, filename: assets/KR6d0115_000-X.markers.yaml, hash: 'sha256:981c75876a976f9c69633431e75cdbf78b04da9641be1a64de62dc97d28d22b0'}
   - {seq: 1, role: markers, filename: assets/KR6d0115_001-X.markers.yaml, hash: 'sha256:3687018edf58c8ed5ff726b87ad766d4ccf45b5bacbaf8816caac2ed6332c4f3'}
   - {seq: 2, role: markers, filename: assets/KR6d0115_002-X.markers.yaml, hash: 'sha256:58de268bc4ee8caa6bb57cf439ad0063d895e3ad0c074ea8c1b717bbde37b29e'}
   - {seq: 3, role: markers, filename: assets/KR6d0115_003-X.markers.yaml, hash: 'sha256:d0d9b8be3a8613a8db09261c0637d39f198d16b0bd6351afb7cba0e7451a91b5'}
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 652-A 金剛三昧經序
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-2
     span:
-    - front
+    - body
     - 820
     - 820
   label: No. 652-B 金剛三昧經通宗記序
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-3
     span:
-    - front
+    - body
     - 1340
     - 1340
   label: 目次
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-4
     span:
-    - front
+    - body
     - 1487
     - 1487
   label: 品義開合圖
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-5
     span:
-    - front
+    - body
     - 1492
     - 1492
   label: No. 652-C 懸談
@@ -101,7 +101,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-6
     span:
-    - front
+    - body
     - 1494
     - 1494
   label: 十門分別
@@ -111,7 +111,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-7
     span:
-    - front
+    - body
     - 1617
     - 1617
   label: 初教起因緣
@@ -121,7 +121,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-8
     span:
-    - front
+    - body
     - 2378
     - 2378
   label: 二藏教分攝
@@ -131,7 +131,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-9
     span:
-    - front
+    - body
     - 3095
     - 3095
   label: 三義理幽深
@@ -141,7 +141,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-10
     span:
-    - front
+    - body
     - 3595
     - 3595
   label: 四法被機宜
@@ -151,7 +151,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-11
     span:
-    - front
+    - body
     - 3917
     - 3917
   label: 五宗分體用
@@ -161,7 +161,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-12
     span:
-    - front
+    - body
     - 4146
     - 4146
   label: 六教迹前後
@@ -171,7 +171,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-13
     span:
-    - front
+    - body
     - 5259
     - 5259
   label: 七翻譯時代
@@ -181,7 +181,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-14
     span:
-    - front
+    - body
     - 5801
     - 5801
   label: 八疏註感通
@@ -191,7 +191,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-15
     span:
-    - front
+    - body
     - 6284
     - 6284
   label: 九解釋經題
@@ -201,7 +201,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0115_X_000-mulu-16
     span:
-    - front
+    - body
     - 7077
     - 7077
   label: 十疏義通宗
@@ -437,4 +437,4 @@ table_of_contents:
   label: 華頂仁叟震禪師書目
   type: mulu
   level: 1
-hash: sha256:941f3dcc88b1b1f069357b981a263b029e72b6ccf0612e3c87d8d76914ea6ae0
+hash: sha256:06ea9f056700d54d6365a43a0260fbab19ad739a5710af54d637ca7ae865b377
